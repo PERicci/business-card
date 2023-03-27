@@ -1,0 +1,35 @@
+body {
+    margin: 20px;
+    font-family: Tahoma, Verdana, Geneva, sans-serif;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.avatar {
+    width: 150px;
+    border: 8px solid white;
+    box-shadow: 2px 2px 4px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    background: #B6C2D9;
+    color: #2b2839;
+    border-bottom: 6px solid #4D7EA8;
+}
+
+.data p, .data h3 {
+    margin: 2px auto;
+}
+.data h4 {
+    margin: 15px auto 10px;
+}
